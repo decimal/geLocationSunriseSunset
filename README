@@ -1,0 +1,3 @@
+Vanilla Javascript for getting the users latitude and longitude. 
+Passes the values to get-sunrise-sunset.php to calculate the Sunrise Sunset and Twilight times of the day.
+Outputs the times for: Astronomical Twilight, Nautical Twilight, Civil Twilight, Sunrise and Sunset times (http://php.net/manual/en/function.date-sunrise.php)
